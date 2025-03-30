@@ -5,7 +5,7 @@
 ### Устанавливаем модель
 Скачиваем ollama с официального сайта
 ```bash 
-  ollama pull ollama pull 3.1:8b
+  ollama pull 3.1:8b
 ```
 ```bash 
   ollama serve
